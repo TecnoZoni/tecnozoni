@@ -272,9 +272,6 @@ footer{
         .servicio-ind{
             width: 50%;
             text-align: center;
-        }
-    
-        .servicio-ind:nth-child(1), .servicio-ind:nth-child(2){
             margin-bottom: 60px;
         }
     
